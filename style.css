@@ -15,7 +15,7 @@ body {
   min-height: 100vh;
 }
 .container {
-  width: 540px;
+  width: 35%;
   margin: 0 auto;
   text-align: center;
   /* background: linear-gradient(125deg, #5effc9 0%, #45c2fc 100%); */
